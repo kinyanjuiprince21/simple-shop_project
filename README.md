@@ -7,7 +7,7 @@ To run the Shop Management System, follow these steps:
 **Clone the Repository:**
    ```bash
    git clone https://github.com/kinyanjuiprince21/simple-shop_project.git
-   cd shop-management-system
+   cd simple-shop_project
    ```
 **Compile and Run:**
 
